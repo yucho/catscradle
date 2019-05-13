@@ -1,0 +1,26 @@
+{
+  "name": "catscradle",
+  "version": "0.0.0",
+  "description": "Cat's cradle modeling engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "say hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yucho/catscradle.git"
+  },
+  "keywords": [
+    "cats",
+    "cradle",
+    "node",
+    "vector",
+    "math"
+  ],
+  "author": "Yucho Ho <yucho.ho@gmail.com> (https://yuchoho.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yucho/catscradle/issues"
+  },
+  "homepage": "https://github.com/yucho/catscradle#readme"
+}
