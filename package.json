@@ -4,7 +4,9 @@
   "description": "Cat's cradle modeling engine",
   "main": "index.js",
   "scripts": {
-    "test": "say hello"
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -22,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/yucho/catscradle/issues"
   },
-  "homepage": "https://github.com/yucho/catscradle#readme"
+  "homepage": "https://github.com/yucho/catscradle#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
